@@ -1,0 +1,34 @@
+.inner-container-nav{
+    border: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: white;
+    height: 40px;
+    width: 100%;
+}
+.list{
+    
+    list-style-type: none;
+    
+    height: 40px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    cursor: pointer;
+    
+
+}
+.list li{
+    height: 40px;
+    min-width: 160px;
+    background-color: rgb(72, 72, 250);
+    color: white;
+    font-weight: 400;
+    padding: 10px;
+    margin-right: 5px;
+    
+}

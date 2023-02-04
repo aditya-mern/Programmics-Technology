@@ -1,0 +1,7 @@
+.text-box{
+    height: 100px;
+    width: 100%;
+    font-size: 13px;
+    padding: 2px;
+    border-bottom: 2px solid rgb(85, 81, 81);
+  }

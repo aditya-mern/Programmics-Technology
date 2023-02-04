@@ -1,0 +1,27 @@
+.list-item{
+    height: 40px;
+    width: 160px;
+    background-color: rgb(72, 72, 250);
+    color: white;
+    font-weight: 400;
+    
+    margin-right: 5px;
+    
+}
+
+
+.thumbnail{
+    background-color: transparent;
+    border: none;
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+    cursor: pointer;
+    color: white;
+    margin-top: -10px;
+    
+}
+
+.active{
+    background-color: rgb(15, 56, 94);
+}
